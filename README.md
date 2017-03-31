@@ -54,7 +54,7 @@
 * AAE(simple implement)
 ### Leetcode(8)
 
-## 2017.3.23~
+## 2017.3.23~3.30
 ### Courses
 * 机器学习技法
 lecture 1
