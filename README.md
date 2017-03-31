@@ -62,3 +62,5 @@ lecture 1
 * unordered_map
 * hash table
 * binary tree
+### Paper
+* [Wasserstein GAN] (https://arxiv.org/pdf/1701.07875.pdf)
