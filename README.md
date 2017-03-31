@@ -58,9 +58,8 @@
 ### Courses
 * 机器学习技法
 lecture 1
-### Leetcode
-* unordered_map
-* hash table
-* binary tree
+
 ### Paper
-* [Wasserstein GAN] (https://arxiv.org/pdf/1701.07875.pdf)
+* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+
+### Leetcode(13)
