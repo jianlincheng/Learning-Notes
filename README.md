@@ -63,3 +63,8 @@ lecture 1
 * [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 
 ### Leetcode(13)
+
+## 2017.3.31~4.05
+### Research 
+* W-GAN(simple implement)
+
