@@ -67,4 +67,14 @@ lecture 1
 ## 2017.3.31~4.05
 ### Research 
 * W-GAN(simple implement)
+## 2017.4.06~4.12
+### Paper
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+* [U-Net: Convolutional Networks for BiomedicalImage Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+
+### Courses
+* [Backpropagation(I.II)](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* [Convolutional Neural Networks(I.II)](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+
 
