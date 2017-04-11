@@ -74,7 +74,7 @@ lecture 1
 * [U-Net: Convolutional Networks for BiomedicalImage Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
 ### Courses
-* [Backpropagation(I.II)](http://study.163.com/course/courseMain.htm?courseId=1003223001)
-* [Convolutional Neural Networks(I.II)](http://study.163.com/course/courseMain.htm?courseId=1003223001)
-
-
+* cs213n:[Backpropagation(I.II)](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* cs231n:[Convolutional Neural Networks(I.II)](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* cs231n:[Training Neural Networks part I](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* cs231n:[Training Neural Networks part II](http://study.163.com/course/courseMain.htm?courseId=1003223001)
