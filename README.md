@@ -78,3 +78,10 @@ lecture 1
 * cs231n:[Convolutional Neural Networks(I.II)](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 * cs231n:[Training Neural Networks part I](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 * cs231n:[Training Neural Networks part II](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+## 2017.4.13-4.19
+### Algorithm
+* Selection Sort
+* Insertion Sort
+* Shell Sort
+### Courses
+* cs213n:[Understanding and visualizing Convolutional Neural Networks](http://study.163.com/course/courseMain.htm?courseId=1003223001)
