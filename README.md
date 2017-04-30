@@ -90,3 +90,7 @@ lecture 1
 * [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 ### Data Structure
 * Binary Tree
+## 2017.4.27~5.3
+### Paper
+* [On Discriminative vs. Generative classifiers: A comparison of logistic regression and naive Bayes](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf)
+* [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)
