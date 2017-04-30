@@ -76,8 +76,6 @@ of incorrectly classied negative examples
 
 横坐标为false positive rate，纵坐标为true positive rate(recall)
 
-![score](http://202.120.0.1/cache/6/04/alexkong.net/9e7137d2d9eca430ab23697721152a65/fpr-and-tpr.png)
-
 consider four points (0,1),(1,0),(0,0),(1,1)
 
 (0,1):完美分类器
@@ -93,6 +91,10 @@ consider four points (0,1),(1,0),(0,0),(1,1)
 unbalanced classes
 
 [An introduction to ROC analysis](http://people.inf.elte.hu/kiss/12dwhdm/roc.pdf)
+### Precision(Fraction of positive predictions that are actually positive)
+High precision means positive predicitions actually likely to be positive
+### Recall(Fraction of positive datapredicted to be positive)
+High recall means positive data points are very likely to be discovered
 
 
 
