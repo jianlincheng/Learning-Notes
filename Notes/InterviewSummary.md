@@ -95,6 +95,33 @@ unbalanced classes
 High precision means positive predicitions actually likely to be positive
 ### Recall(Fraction of positive datapredicted to be positive)
 High recall means positive data points are very likely to be discovered
+## C++
+### STL
+#### Container
+* sequence container
+
+push_back() & push_front() only for list and deque
+
+insert() & erase()
+
+pop_front() & pop_back()
+
+assign() & swap()
+* associative container
+##### [vector](http://www.cplusplus.com/reference/vector/vector/)
+##### [list](http://www.cplusplus.com/reference/list/list/)
+##### [deque](http://www.cplusplus.com/reference/deque/deque/)
+##### [array](http://www.cplusplus.com/reference/array/array/)
+#### Iterators
+* input iterator
+* output iterator
+* forward iterator
+* bidirectional iterator
+* random acess iterator
+#### Algorithms
+#### Function
+
+
 
 
 
