@@ -97,7 +97,7 @@ High precision means positive predicitions actually likely to be positive
 High recall means positive data points are very likely to be discovered
 ## C++
 ### STL
-#### Container
+#### [Container](http://www.cplusplus.com/reference/stl/)
 * sequence container
 
 push_back() & push_front() only for list and deque
@@ -107,19 +107,33 @@ insert() & erase()
 pop_front() & pop_back()
 
 assign() & swap()
-* associative container
+
 ##### [vector](http://www.cplusplus.com/reference/vector/vector/)
 ##### [list](http://www.cplusplus.com/reference/list/list/)
 ##### [deque](http://www.cplusplus.com/reference/deque/deque/)
 ##### [array](http://www.cplusplus.com/reference/array/array/)
-#### Iterators
-* input iterator
-* output iterator
-* forward iterator
-* bidirectional iterator
-* random acess iterator
-#### Algorithms
-#### Function
+* container adaptor
+##### [stack](http://www.cplusplus.com/reference/stack/stack/)
+last in first out
+##### [deque](http://www.cplusplus.com/reference/deque/deque/)
+First in First out
+* associative container
+
+[map](http://www.cplusplus.com/reference/map/map/)
+
+[set](http://www.cplusplus.com/reference/set/set/)
+
+[multimap](http://www.cplusplus.com/reference/map/multimap/)
+
+[multiset](http://www.cplusplus.com/reference/set/multiset/)
+
+#### [Iterators](http://www.cplusplus.com/reference/iterator/)
+* [input iterator](http://www.cplusplus.com/reference/iterator/InputIterator/)
+* [output iterator](http://www.cplusplus.com/reference/iterator/OutputIterator/)
+* [forward iterator](http://www.cplusplus.com/reference/iterator/ForwardIterator/)
+* [bidirectional iterator](http://www.cplusplus.com/reference/iterator/BidirectionalIterator/)
+* [random acess iterator](http://www.cplusplus.com/reference/iterator/RandomAccessIterator/)
+#### [Algorithms](http://www.cplusplus.com/reference/algorithm/)
 
 
 
