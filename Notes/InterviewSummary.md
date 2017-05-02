@@ -100,32 +100,32 @@ High recall means positive data points are very likely to be discovered
 #### [Container](http://www.cplusplus.com/reference/stl/)
 * sequence container
 
-push_back() & push_front() only for list and deque
+    push_back() & push_front() only for list and deque
 
-insert() & erase()
+    insert() & erase()
 
-pop_front() & pop_back()
+    pop_front() & pop_back()
 
-assign() & swap()
+    assign() & swap()
 
-##### [vector](http://www.cplusplus.com/reference/vector/vector/)
-##### [list](http://www.cplusplus.com/reference/list/list/)
-##### [deque](http://www.cplusplus.com/reference/deque/deque/)
-##### [array](http://www.cplusplus.com/reference/array/array/)
+    ##### [vector](http://www.cplusplus.com/reference/vector/vector/)
+    ##### [list](http://www.cplusplus.com/reference/list/list/)
+    ##### [deque](http://www.cplusplus.com/reference/deque/deque/)
+    ##### [array](http://www.cplusplus.com/reference/array/array/)
 * container adaptor
-##### [stack](http://www.cplusplus.com/reference/stack/stack/)
-last in first out
-##### [deque](http://www.cplusplus.com/reference/deque/deque/)
-First in First out
+    ##### [stack](http://www.cplusplus.com/reference/stack/stack/)
+    last in first out
+    ##### [deque](http://www.cplusplus.com/reference/deque/deque/)
+    First in First out
 * associative container
 
-[map](http://www.cplusplus.com/reference/map/map/)
+    [map](http://www.cplusplus.com/reference/map/map/)
 
-[set](http://www.cplusplus.com/reference/set/set/)
+    [set](http://www.cplusplus.com/reference/set/set/)
 
-[multimap](http://www.cplusplus.com/reference/map/multimap/)
+    [multimap](http://www.cplusplus.com/reference/map/multimap/)
 
-[multiset](http://www.cplusplus.com/reference/set/multiset/)
+    [multiset](http://www.cplusplus.com/reference/set/multiset/)
 
 #### [Iterators](http://www.cplusplus.com/reference/iterator/)
 * [input iterator](http://www.cplusplus.com/reference/iterator/InputIterator/)
