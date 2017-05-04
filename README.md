@@ -22,7 +22,7 @@
 ## 2016.12.21~2016.12.28
 ### Courses
 * 机器学习技法
-
+    
   lecture 11.13
 * Oxford Deep learning 
 
@@ -57,7 +57,8 @@
 ## 2017.3.23~3.30
 ### Courses
 * 机器学习技法
-lecture 1
+
+  lecture 1
 
 ### Paper
 * [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
@@ -96,3 +97,8 @@ lecture 1
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)
 * [Softmax GAN](https://arxiv.org/abs/1704.06191)
 * [Gang of GANs:Generative Adversarial Networks with Maximum Margin Ranking](https://arxiv.org/abs/1704.04865)
+## 2017.5.3~
+### Courses
+* 机器学习技法
+
+  lecture 2.3
