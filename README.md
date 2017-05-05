@@ -101,4 +101,4 @@
 ### Courses
 * 机器学习技法
 
-  lecture 2.3
+  lecture 2.3.4.5.6
