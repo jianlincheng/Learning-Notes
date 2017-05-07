@@ -14,11 +14,6 @@
 * [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression/home)  ***coursera***
 * [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification/home)  ***coursera***
 * [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models/home/welcome)  ***coursera***
-* 机器学习技法
-
-    lecture 8
-
-
 ## 2016.12.21~2016.12.28
 ### Courses
 * 机器学习技法
@@ -101,4 +96,4 @@
 ### Courses
 * 机器学习技法
 
-  lecture 2.3.4.5.6
+  lecture 2.3.4.5.6.7.8

@@ -27,6 +27,8 @@ For t = 1 to T
 
 Final model predict
 ### Bagging 
+用bootstrap的动作来用一份有限的资料模拟不一样的多份资料
+
 high variance & easily overfit
 
 bootstrap sample:re-sample N examples from D uniformly with replacement-can also use arbitrary N instead of original dataset
@@ -39,6 +41,8 @@ For t = 1,2,...,T
 
 
 Simpler than boosting & easier to parallelize
+
+bagging works reasonably well if base algorithm senstive to data randomness
 
 Typically higher error than boosting for same numbers of trees
 ### Generative model vs Discriminative model
