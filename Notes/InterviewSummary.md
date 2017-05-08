@@ -70,6 +70,9 @@ Typically higher error than boosting for same numbers of trees
 * 与生成模型缺点对应，首先是节省计算资源，另外，需要的样本数量也少于生成模型
 * 准确率往往较生成模型高
 * 由于直接学习预测条件概率，而不需要求解类别条件概率，所以允许我们对输入进行抽象（比如降维、构造等），从而能够简化学习问题
+### Manifold Learning
+
+
 ### AOC(area under curve)
 The AUC value is equivalent to the probability that a randomly chosen positive example is ranked higher than a randomly chosen negative example.
 
@@ -99,6 +102,10 @@ unbalanced classes
 High precision means positive predicitions actually likely to be positive
 ### Recall(Fraction of positive datapredicted to be positive)
 High recall means positive data points are very likely to be discovered
+### CNN vs FCN
+* 以前的神经网络都是FCN，参数太多，容易overfit
+* CNN的局部连接和权值共享，pooling的下采样能够降低overfitting，增加层数，提取到更好的特征
+* CNN是FCN的一种简化形式，不全连接+参数共享
 ## C++
 ### STL
 #### [Container](http://www.cplusplus.com/reference/stl/)
@@ -138,7 +145,15 @@ High recall means positive data points are very likely to be discovered
 * [bidirectional iterator](http://www.cplusplus.com/reference/iterator/BidirectionalIterator/)
 * [random acess iterator](http://www.cplusplus.com/reference/iterator/RandomAccessIterator/)
 #### [Algorithms](http://www.cplusplus.com/reference/algorithm/)
+### Dynamic Programming
 
+### Inherit(继承)
+允许我们依据一个类来定义另一个类
+* 使创建和维护一个应用程序更容易
+* 重用了代码功能，提高了执行效率
+当创建一个类的时候，当很多功能是有一个类拥有的，那我直接继承过来，省掉了大部分数据成员和成员函数，但这不影响我自己这个类有自己特点的功能。
+## Expression
+用最通俗最接地气的方式表达出你所要说的东西,简单易懂的东西是最容易传播的。
 
 
 
