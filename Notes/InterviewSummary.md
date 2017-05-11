@@ -145,15 +145,7 @@ High recall means positive data points are very likely to be discovered
 * [bidirectional iterator](http://www.cplusplus.com/reference/iterator/BidirectionalIterator/)
 * [random acess iterator](http://www.cplusplus.com/reference/iterator/RandomAccessIterator/)
 #### [Algorithms](http://www.cplusplus.com/reference/algorithm/)
-### Dynamic Programming
 
-### Inherit(继承)
-允许我们依据一个类来定义另一个类
-* 使创建和维护一个应用程序更容易
-* 重用了代码功能，提高了执行效率
-当创建一个类的时候，当很多功能是有一个类拥有的，那我直接继承过来，省掉了大部分数据成员和成员函数，但这不影响我自己这个类有自己特点的功能。
-## Expression
-用最通俗最接地气的方式表达出你所要说的东西,简单易懂的东西是最容易传播的。
 
 
 
