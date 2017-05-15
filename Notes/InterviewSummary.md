@@ -73,7 +73,7 @@ Typically higher error than boosting for same numbers of trees
 ### Manifold Learning
 
 
-### AOC(area under curve)
+### AUC(area under curve)
 The AUC value is equivalent to the probability that a randomly chosen positive example is ranked higher than a randomly chosen negative example.
 
 which show how the number of correctly
