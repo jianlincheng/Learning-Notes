@@ -98,5 +98,6 @@
 
   lecture 2.3.4.5.6.7.8
 ## 2017.5.10~5.17
-### Blog
+### Paper
+* [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300.pdf)
  
