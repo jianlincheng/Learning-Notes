@@ -100,4 +100,7 @@
 ## 2017.5.10~5.17
 ### Paper
 * [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300.pdf)
+## 2017.5.18~5.25
+### Paper
+* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
  
