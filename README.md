@@ -103,4 +103,5 @@
 ## 2017.5.18~5.25
 ### Paper
 * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
+* [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)
  
