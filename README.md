@@ -92,16 +92,19 @@
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)
 * [Softmax GAN](https://arxiv.org/abs/1704.06191)
 * [Gang of GANs:Generative Adversarial Networks with Maximum Margin Ranking](https://arxiv.org/abs/1704.04865)
-## 2017.5.3~5.10
+## 2017.5.4~5.10
 ### Courses
 * 机器学习技法
 
   lecture 2.3.4.5.6.7.8
-## 2017.5.10~5.17
+## 2017.5.11~5.17
 ### Paper
 * [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300.pdf)
-## 2017.5.18~5.25
+## 2017.5.18~5.24
 ### Paper
 * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
 * [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)
+* [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05328.pdf)
+
+
  
