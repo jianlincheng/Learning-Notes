@@ -1,18 +1,17 @@
 # A Note of Study
 ## 2016-12
-### Paper
-* [Generative Adversarial Net](https://arxiv.org/abs/1406.2661)
-* [Visualizing Data using t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
-* [Accelerating t-SNE using Tree-Based Algorithms](http://www.jmlr.org/papers/v15/vandermaaten14a.html)
-* [Semi-Supervised Learning with Ladder Networks](https://papers.nips.cc/paper/5947-semi-supervised-learning-with-ladder-networks)
-* [Deep learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
-* [Expectation–Maximization Approach toFault Diagnosis With Missing Data](http://ieeexplore.ieee.org/document/6850032/?arnumber=6850032&tag=1)
-* [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
-* [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
-* [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
-* [Gaussian Mixture Models](http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/GMM_Tutorial_Reynolds.pdf)
-* [Contractive Auto-Encoders:Explicit Invariance During Feature Extraction](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Rifai_455.pdf)
-* [Dimensionality Reduction: A Comparative Review](https://www.tilburguniversity.edu/upload/59afb3b8-21a5-4c78-8eb3-6510597382db_TR2009005.pdf)
+* Generative Adversarial Net([NIPS](https://arxiv.org/abs/1406.2661))
+* Visualizing Data using t-SNE([JMLR](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf))
+* Accelerating t-SNE using Tree-Based Algorithms([JMLR](http://www.jmlr.org/papers/v15/vandermaaten14a.html))
+* Semi-Supervised Learning with Ladder Networks([NIPS](https://papers.nips.cc/paper/5947-semi-supervised-learning-with-ladder-networks))
+* Deep learning([NATURE](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html))
+* Expectation–Maximization Approach toFault Diagnosis With Missing Data([IEEE](http://ieeexplore.ieee.org/document/6850032/?arnumber=6850032&tag=1))
+* A Few Useful Things to Know about Machine Learning([CACM](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf))
+* Variational Inference
+* Auto-Encoding Variational Bayes([arxiv](https://arxiv.org/abs/1312.6114))
+* Gaussian Mixture Models
+* Contractive Auto-Encoders:Explicit Invariance During Feature Extraction([ICML](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Rifai_455.pdf))
+* Dimensionality Reduction: A Comparative Review([JMLR](https://www.tilburguniversity.edu/upload/59afb3b8-21a5-4c78-8eb3-6510597382db_TR2009005.pdf))
 ### Course
 * [Machine learning Foundations:A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/welcome)  ***coursera***
 * [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression/home)  ***coursera***
@@ -33,8 +32,8 @@
   Course 1: [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web/home/welcome)
 ## 2017-3
 ### Paper
-* [Exploiting Expertise Rules for Statistical Data-Driven Modeling](https://www.google.com)
-* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+* Exploiting Expertise Rules for Statistical Data-Driven Modeling
+* Wasserstein GAN([arxiv](https://arxiv.org/abs/1701.07875))
 ### Courses
 * Java Programming and Software Engineering Fundamentals **Duke University** ***coursera***
 
@@ -46,11 +45,10 @@
 * DAE && Multi-layer DAE
 * Embedding AE(feauture && reconstruct)
 * AAE(simple implement)
-## 2017-4
-### Research 
 * W-GAN(simple implement)
+## 2017-4
 ### Paper
-* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift([](https://arxiv.org/pdf/1502.03167.pdf))
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 * [U-Net: Convolutional Networks for BiomedicalImage Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 * [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
