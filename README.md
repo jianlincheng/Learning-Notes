@@ -61,6 +61,8 @@
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks([arxiv](https://arxiv.org/pdf/1511.06434.pdf))
 * Adversarially Learned Inference([arxiv](https://arxiv.org/pdf/1606.00704.pdf))
 * Conditional Image Generation with PixelCNN Decoders([NIPS](https://arxiv.org/pdf/1606.05328.pdf))
+* Stacked Generative Adversarial Networks([arxiv](https://arxiv.org/abs/1612.04357))
+* Deep Residual Learning for Image Recognition([CVPR](https://arxiv.org/abs/1512.03385))
 * 机器学习技法 : lecture 2.3.4.5.6.7.8
 
 
