@@ -64,6 +64,8 @@
 * Stacked Generative Adversarial Networks([arxiv](https://arxiv.org/abs/1612.04357))
 * Deep Residual Learning for Image Recognition([CVPR](https://arxiv.org/abs/1512.03385))
 * 机器学习技法 : lecture 2.3.4.5.6.7.8
+## 2017-6
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks([arxiv](https://arxiv.org/pdf/1703.10593.pdf))
 
 
  
